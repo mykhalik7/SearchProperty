@@ -8,3 +8,5 @@
 /PropertySearch.Api/obj
 /PropertySearch.API.Tests/bin
 /PropertySearch.API.Tests/obj
+config.bat
+node_modules
